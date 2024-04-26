@@ -2,3 +2,7 @@
 node_modules
 .tmp
 npm-debug.log
+src/01_05/shuffle_challenge
+.gitignore
+src/01_05/shuffle_solution1
+src/01_05/shuffle_solution2
